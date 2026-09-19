@@ -18,7 +18,7 @@
     ```
 5. Open the cloned directory in your desired IDE (ex: Visual Studio code in this case).
     ```shell
-    code .
+    code ./
     ```
 ### All the best! &#128077;
 
