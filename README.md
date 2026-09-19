@@ -1,3 +1,29 @@
+# Instructions
+### Steps in cloning this repository
+1. Open git bash and navigate to your desired directory. For example
+    ```shell
+    cd K564
+    ```
+2. Clone the repository
+    ```shell
+    git clone https://github.com/kumar-student/MERN-React-Starter.git
+    ```
+3. Navigate the the cloned repository
+    ```shell
+    cd MERN-React-Starter
+    ```
+4. Install dependencies from package.json by entering following command
+    ```shell
+    npm install
+    ```
+5. Open the cloned directory in your desired IDE (ex: Visual Studio code in this case)
+    ```shell
+    code .
+    ```
+### All the best! &#128077;
+
+---
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
