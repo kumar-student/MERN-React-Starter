@@ -8,19 +8,19 @@
     ```shell
     git clone https://github.com/kumar-student/MERN-React-Starter.git
     ```
-3. Navigate the the cloned repository
+3. Navigate the the cloned repository.
     ```shell
     cd MERN-React-Starter
     ```
-4. Install dependencies from package.json by entering following command
+4. Install dependencies from package.json
     ```shell
     npm install
     ```
-5. Open the cloned directory in your desired IDE (ex: Visual Studio code in this case).
+5. Open the cloned directory in your desired IDE (ex: Visual Studio code in this case)
     ```shell
     code ./
     ```
-6. Run the frontend server
+6. Run the frontend server and visit http://localhost:5173 for output
     ```shell
     npm run dev
     ```
