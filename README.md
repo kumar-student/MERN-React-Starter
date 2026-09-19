@@ -1,6 +1,6 @@
 # Instructions
 ### Steps in cloning this repository
-1. Open git bash and navigate to your desired directory. For example
+1. Open git bash and navigate to your desired directory (ex: K564 in this case)
     ```shell
     cd K564
     ```
@@ -16,7 +16,7 @@
     ```shell
     npm install
     ```
-5. Open the cloned directory in your desired IDE (ex: Visual Studio code in this case)
+5. Open the cloned directory in your desired IDE (ex: Visual Studio code in this case).
     ```shell
     code .
     ```
