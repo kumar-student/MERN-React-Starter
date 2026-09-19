@@ -20,6 +20,10 @@
     ```shell
     code ./
     ```
+6. Run the frontend server
+    ```shell
+    npm run dev
+    ```
 ### All the best! &#128077;
 
 ---
